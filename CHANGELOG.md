@@ -1,5 +1,9 @@
 # Change history for ui-servicepoints
 
+## 1.5.0 (IN PROGRESS)
+
+* Upgrade react-router-dom to v5 and move it to peerDependencies (STCOM-581)
+
 ## [1.4.1](https://github.com/folio-org/ui-servicepoints/tree/v1.4.1) (2019-09-11)
 [Full Changelog](https://github.com/folio-org/ui-servicepoints/compare/v1.4.0...v1.4.1)
 

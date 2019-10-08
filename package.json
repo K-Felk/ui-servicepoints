@@ -45,11 +45,11 @@
   "dependencies": {
     "@folio/react-intl-safe-html": "^1.0.0",
     "lodash": "^4.17.4",
-    "prop-types": "^15.6.0",
-    "react-router-dom": "^4.1.1"
+    "prop-types": "^15.6.0"
   },
   "peerDependencies": {
     "@folio/stripes": "^2.0.0",
-    "react": "*"
+    "react": "*",
+    "react-router-dom": "^5.0.1"
   }
 }
